@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">G P Deepika</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+        Hi I am Deepika.
+
+        I am from Kanya Kumari.
+
+        I have completed my summer intern in zoho.
+
+        Now I have joined as a project trainee in zoho.
+
+        My hobbies are drawing and singing.
+
+        My strengths are self motivation and hardworking.
+
+        I am pursuing my BE in stream of CSE in KCE.
+    </string>
+    <string name="bio_text">bio</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+
+</resources>
